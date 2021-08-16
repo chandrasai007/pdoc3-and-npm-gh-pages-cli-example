@@ -16,7 +16,7 @@ npm install gh-pages
 
 **Step-3**:- Running the cmd to publish the gh-pages and after running the below cmd will need to give your github username and github personal token(not github password)
 ```
-root@INSWL-B3V2273:~/pdoc3_test# **node node_modules/gh-pages/bin/gh-pages --dist html/**
+root@INSWL-B3V2273:~/pdoc3-and-npm-gh-pages-cli-example# node node_modules/gh-pages/bin/gh-pages --dist html/
 ```
 
 
