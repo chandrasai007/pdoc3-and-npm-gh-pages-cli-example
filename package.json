@@ -1,0 +1,4 @@
+"scripts": {
+  "deploy": "npm run gh-pages",
+  "gh-pages": "gh-pages -d dist -b gh-pages"
+}
